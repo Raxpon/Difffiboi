@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/Scenes/L\xF8sOpgave.unity"
+  isLoaded: 1
+  isActive: 1
